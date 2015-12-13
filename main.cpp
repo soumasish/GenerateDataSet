@@ -3,8 +3,8 @@
 
 int main()
 {
-    const int NUM_VERTICES = 8192;
-    const int NUM_EDGES = 8192;
+    const int NUM_VERTICES = 16384;
+    const int NUM_EDGES = 16384;
     clock_t begin, end;
     double time_spent;
 
